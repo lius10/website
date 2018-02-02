@@ -19,12 +19,12 @@ weight = 5
 [[education.courses]]
   course = "PhD in Industrial Engineering & Operations Research"
   institution = "UC Berkeley"
-  year = 2019 (expected)
+  year = 2019
 
 [[education.courses]]
   course = "M.S. in Economics"
   institution = "UC Berkeley"
-  year = 2019 (expected)
+  year = 2019
 
 [[education.courses]]
   course = "M.S. in Industrial Engineering & Operations Research"
