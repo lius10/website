@@ -1,10 +1,10 @@
 +++
-title = "Shared Mobility for Last-Mile Delivery: Design, Operational Prescriptions and Environmental Impact"
-date = 2017-02-02T13:33:33-08:00
+title = "A Study of Three-Period Ramp-Up Polytope"
+date = 2015-02-02T13:43:36-08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Wei Qi", "Lefei Li", "Sheng Liu", "Zuo-jun Max Shen"]
+authors = ["Sheng Liu", "Deepak Rajan"]
 
 # Publication type.
 # Legend:
@@ -15,10 +15,10 @@ authors = ["Wei Qi", "Lefei Li", "Sheng Liu", "Zuo-jun Max Shen"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "accepted in M&SOM"
+publication = "optimization-online"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2859018"
+url_pdf = "http://www.optimization-online.org/DB_FILE/2015/09/5124.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

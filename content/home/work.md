@@ -7,17 +7,13 @@ active = true
 date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Teaching"
+title = "Professional Experience"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 30
+weight = 60
 
 +++
 
-I have benn teaching assistant to optimization and statistics courses:
-
-*   IEOR 268, Applied Dynamic Programming
-*   E120, Engineering Economics
-*   IE165: Engineering Statistics, Quality Control, and Forecasting
-*   IE160: Nonlinear and Discrete Optimization
+I have interned at Amazon (Summer 2017) and China Center for Operations Excellence (McKinsey & Company, Summer 2013). I am very fortunate to be advised by 
+Muhong Zhang and Zhihai Zhang during my intership. 
