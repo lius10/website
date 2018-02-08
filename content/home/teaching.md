@@ -18,6 +18,6 @@ weight = 30
 I have benn teaching assistant to optimization and statistics courses:
 
 *   IEOR 268, Applied Dynamic Programming
+*   IEOR 165: Engineering Statistics, Quality Control, and Forecasting
+*   IEOR 160: Nonlinear and Discrete Optimization
 *   E120, Engineering Economics
-*   IE165: Engineering Statistics, Quality Control, and Forecasting
-*   IE160: Nonlinear and Discrete Optimization
